@@ -1,12 +1,14 @@
 import './App.css'
-import UseEffect from './Component/UseEffect'
+import UseReducer from './Component/UseReducer'
+// import UseEffect from './Component/UseEffect'
 // import UseState from './Component/UseState'
 
 function App() {
   return (
     <>
       {/* <UseState /> */}
-      <UseEffect />
+      {/* <UseEffect /> */}
+      <UseReducer />
     </>
   )
 }
